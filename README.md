@@ -78,7 +78,20 @@
 
 
 
-<h3 align="left">Databases</h3>
+<h3 align="left">Databases & Cloud</h3>
+<table>
+ <tr>
+    <td>
+      <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank" rel="noreferrer">
+        <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="pandas" width="40" height="40"/>
+      </a>
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://aws.amazon.com/?nc2=h_lg" alt="numpy" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+</table>
 <p>1. Microsoft SQL Server Management Studio</p>
 <p>2. Snowflake</p>
 
