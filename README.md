@@ -8,7 +8,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vamsi-vasamsetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamsi-vasamsetti/" height="30" width="40" /></a>
 </p>
 
-
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
 <div class="container">
   <div>
     <h3 align="left">Languages:</h3>
