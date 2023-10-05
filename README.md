@@ -63,10 +63,10 @@
     <td>Other</td>
     <td>
       <a href="https://www.tweepy.org/" target="_blank" rel="noreferrer">
-        <img src="https://abs.twimg.com/a/1377219190/images/resources/twitter-bird-dark-bgs.png" alt="seaborn" width="40" height="40"/>
+        <img src="https://abs.twimg.com/a/1377219190/images/resources/twitter-bird-dark-bgs.png" alt="tweepy" width="40" height="40"/>
       </a>
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://hackr.io/blog/media/matplotlib.png" alt="matplotlib" width="40" height="40"/>
+      <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+        <img src="" alt="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="40" height="40"/>
       </a>
     </td>
   </tr>
