@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vamsi</h1>
+<h1 align="center">Hi!, I'm Vamsi</h1>
 <h3 align="center">A passionate Data scientist. Currently working as an intern for Alberta Motor Association (AMA).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsiv2001" alt="vamsiv2001" /></a> </p>
