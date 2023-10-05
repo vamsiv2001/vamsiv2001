@@ -83,10 +83,10 @@
  <tr>
     <td>
       <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank" rel="noreferrer">
-        <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="pandas" width="40" height="40"/>
+        <img src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" alt="SQL" width="40" height="40"/>
       </a>
       <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" alt="numpy" width="40" height="40"/>
+        <img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="40"/>
       </a>
     </td>
   </tr>
