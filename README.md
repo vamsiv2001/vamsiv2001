@@ -43,6 +43,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vamsiv2001&show_icons=true&locale=en&layout=compact" alt="vamsiv2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsiv2001&" alt="vamsiv2001" /></p>
-
 
