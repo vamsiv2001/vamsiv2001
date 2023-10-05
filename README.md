@@ -30,7 +30,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
       </a>
       <a href="https://scipy.org/" target="_blank" rel="noreferrer">
-       <img src="https://hackr.io/blog/media/scipy.png" alt="numpy" width="40" height="40"/>
+       <img src="https://hackr.io/blog/media/scipy.png" alt="numpy" width="60" height="40"/>
       </a>
     </td>
   </tr>
