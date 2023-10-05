@@ -57,7 +57,7 @@
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
       </a>
       <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-        <img src="https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Matplotlib_logo.svg/1024px-Matplotlib_logo.svg.png" alt="matplotlib" width="40" height="40"/>
       </a>
     </td>
   </tr>
