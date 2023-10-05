@@ -59,6 +59,17 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td>Other</td>
+    <td>
+      <a href="https://www.tweepy.org/" target="_blank" rel="noreferrer">
+        <img src="https://abs.twimg.com/a/1377219190/images/resources/twitter-bird-dark-bgs.png" alt="seaborn" width="40" height="40"/>
+      </a>
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+        <img src="https://hackr.io/blog/media/matplotlib.png" alt="matplotlib" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 
