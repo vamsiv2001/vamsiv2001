@@ -68,6 +68,9 @@
       <a href="https://xgboost.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="40" height="40"/>
       </a>
+      <a href="https://requests.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
+        <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" width="40" height="40"/>
+      </a>
     </td>
   </tr>
 </table>
