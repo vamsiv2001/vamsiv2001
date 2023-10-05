@@ -21,7 +21,7 @@
 
   <div>
     <h3 align="center">Libraries:</h3>
-    <table>
+    <table class="center">
       <tr>
         <th>Category</th>
         <th>Libraries</th>
