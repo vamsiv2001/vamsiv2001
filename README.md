@@ -8,10 +8,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vamsi-vasamsetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamsi-vasamsetti/" height="30" width="40" /></a>
 </p>
 
-.center {
-  margin-left: auto;
-  margin-right: auto;
-}
 <div class="container">
   <div>
     <h3 align="left">Languages:</h3>
@@ -23,7 +19,7 @@
   </div>
 
   <div>
-    <h3 align="center">Libraries:</h3>
+    <h3 align="left">Libraries:</h3>
     <table class="center">
       <tr>
         <th>Category</th>
@@ -64,7 +60,7 @@
   </div>
 
   <div>
-    <h3 align="right">Databases & Cloud</h3>
+    <h3 align="left">Databases & Cloud</h3>
     <table>
       <tr>
         <td>
