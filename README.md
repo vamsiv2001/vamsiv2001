@@ -6,7 +6,7 @@
 <p>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vamsi-vasamsetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vamsi-vasamsetti/" height="30" width="40" /></a>
 </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsiv2001&" alt="vamsiv2001" /></p>
 <div class="container">
   <div>
     <h3 align="left">Languages:</h3>
